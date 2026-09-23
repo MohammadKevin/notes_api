@@ -18,9 +18,9 @@ NestJS backend API for creating, tagging, categorizing, and synchronizing user n
 ---
 
 ## ✨ Key Features
-- ⚡ **Rich text note storage with title, tags, and pinned priority**: Rich text note storage with title, tags, and pinned priority
-- ⚡ **Folder categorization and quick full-text search**: Folder categorization and quick full-text search
-- ⚡ **User-isolated note privacy and JWT authentication**: User-isolated note privacy and JWT authentication
+- Rich text note storage with title, tags, and pinned priority
+- Folder categorization and quick full-text search
+- User-isolated note privacy and JWT authentication
 
 ---
 
