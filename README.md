@@ -12,19 +12,19 @@
 
 ---
 
-## 📌 Overview
+## Overview
 NestJS backend API for creating, tagging, categorizing, and synchronizing user notes and task checklists with JWT security.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Rich text note storage with title, tags, and pinned priority
 - Folder categorization and quick full-text search
 - User-isolated note privacy and JWT authentication
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: NestJS
 - **Language**: TypeScript
 - **ORM**: Prisma ORM
@@ -32,7 +32,7 @@ NestJS backend API for creating, tagging, categorizing, and synchronizing user n
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 notes_api/
 ├── src/
@@ -43,7 +43,7 @@ notes_api/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -60,7 +60,7 @@ npm run start:dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -69,9 +69,9 @@ npm run start:dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
